@@ -6,7 +6,7 @@ A simple TCP chat server built with Node.js using only the standard library. Thi
 
 **Watch the demo video to see the server in action:**
 
-🔗 [Demo Video - TCP Chat Server](https://www.loom.com/share/707a86f8ac69480b8d0b8ac4d6e444be)
+🔗 [Demo Video - TCP Chat Server](https://www.loom.com/share/3ecae96c493147a5a9ebe2ee4d5b745f)
 
 The video demonstrates:
 - Server startup and configuration
