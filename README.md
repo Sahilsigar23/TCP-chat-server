@@ -311,8 +311,7 @@ algokart/
 ├── client.js              # Interactive client for testing
 ├── package.json           # Project configuration
 ├── README.md              # This file
-├── TESTING.md             # Testing guide
-├── VIDEO_SCRIPT.md        # Video recording script
+├── TESTING.md             # Testing guide      
 ├── env.example            # Environment variables example
 └── .gitignore            # Git ignore file
 ```
