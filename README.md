@@ -302,18 +302,6 @@ INFO Naman disconnected
 2. From any client, send: `WHO`
 3. Verify all usernames are listed
 
-## 🌐 Deployment
-
-If deploying online:
-
-1. Set the port using environment variable: `PORT=4000 node server.js`
-2. Ensure the port is open in your firewall
-3. Update the hostname/IP in connection commands
-
-**Example:**
-```bash
-nc your-server-ip 4000
-```
 
 ## Project Structure
 
@@ -340,15 +328,7 @@ algokart/
 - Thread-safe client management using Map data structure
 - Automatic heartbeat and idle timeout management
 
-## 📄 License
 
-ISC
-
-## 👤 Author
-
-Built as a backend assignment demonstrating TCP socket programming with Node.js.
-
----
 
 **Note:** This server uses only Node.js standard library - no frameworks, no external dependencies, no HTTP, no database. Pure TCP socket communication.
 
